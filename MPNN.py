@@ -1,16 +1,3 @@
-"""
-Group Number : 21
-
-Roll Numbers : Names of members
-20CS60R68    : Trapti Singh
-20CS60R70    : Ram Kishor Yadav
-20CS60R71    : Rohit
-
-Project number : 2
-Project code   : MPNN
-Project title : Popularity of Music Records Prediction using Artificial Neural Network
-"""
-
 # Including necessary libraries
 
 import sys
